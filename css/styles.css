@@ -1,0 +1,19 @@
+
+body {
+    background: url("../image/bg.jpg");
+    background-position: center;
+    background-attachment: fixed;
+}
+.top form{
+    background: rgba(0, 0, 0, 0.698);
+    color: #fff;
+    border-radius: 4px;
+    font-weight: 900;
+    font-size: large;
+}
+.top form input{
+ background: rgba(0, 0, 0, 0.561);
+}
+.top form button{
+    margin: 3px;
+}
